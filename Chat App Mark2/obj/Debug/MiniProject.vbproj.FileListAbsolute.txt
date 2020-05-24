@@ -1,0 +1,19 @@
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\bin\Debug\Chat App Mark2.exe.config
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\bin\Debug\Chat App Mark2.exe
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\bin\Debug\Chat App Mark2.pdb
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\bin\Debug\Chat App Mark2.xml
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\MiniProject.vbprojResolveAssemblyReference.cache
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Level2.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Level3.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Chat.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Level1.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Resources.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.SendorReceive.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.TextEditor.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\MiniProject.vbproj.GenerateResource.Cache
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat App Mark2.exe
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat App Mark2.xml
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat App Mark2.pdb
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.MainMenu.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.MazeMenu.resources
+D:\Visual Basic\Chat App Mark2\Chat App Mark2\obj\Debug\Chat_App_Mark2.Records.resources
